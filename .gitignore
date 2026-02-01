@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Model files
+*.pkl
+*.joblib
+
+# Data files (usually large / sensitive)
+*.csv
+*.xlsx
+*.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs / Editors
+.vscode/
+.idea/
+
+# Flask
+instance/
+.webassets-cache
+
+# Temporary files
+*.tmp
+*.swp
